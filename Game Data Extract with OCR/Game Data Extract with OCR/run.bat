@@ -1,0 +1,1 @@
+py Game_score_ocr.py
